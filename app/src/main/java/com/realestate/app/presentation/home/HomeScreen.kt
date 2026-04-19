@@ -203,7 +203,7 @@ private fun Footer(realEstateDomain: RealEstateDomain) {
     ) {
         Text(
             modifier = Modifier.padding(start = 8.dp),
-            text = realEstateDomain.title + realEstateDomain.id.toString(),
+            text = realEstateDomain.title,
             style = MaterialTheme.typography.labelMedium,
         )
 
