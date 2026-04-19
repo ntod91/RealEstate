@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMG Real Estate</string>
+    <string name="button_action_reload">Reload data</string>
+    <string name="text_error_title">Error</string>
+</resources>
